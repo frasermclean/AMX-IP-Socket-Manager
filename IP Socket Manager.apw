@@ -136,24 +136,16 @@
 <UserName></UserName>
 <Password></Password>
 <Comments></Comments>
+<File CompileType="Netlinx" Type="Include"><Identifier>IP Socket Manager - Header</Identifier>
+<FilePathName>IP Socket Manager - Header.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="MasterSrc"><Identifier>IP Socket Manager - Test</Identifier>
 <FilePathName>IP Socket Manager - Test.axs</FilePathName>
 <Comments></Comments>
 </File>
-<File CompileType="Netlinx" Type="Module"><Identifier>IP Socket Manager v10</Identifier>
-<FilePathName>IP Socket Manager v10.axs</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Module"><Identifier>IP Socket Manager v7</Identifier>
-<FilePathName>IP Socket Manager v7.axs</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Module"><Identifier>IP Socket Manager v8</Identifier>
-<FilePathName>IP Socket Manager v8.axs</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Module"><Identifier>IP Socket Manager v9</Identifier>
-<FilePathName>IP Socket Manager v9.axs</FilePathName>
+<File CompileType="Netlinx" Type="Module"><Identifier>IP Socket Manager</Identifier>
+<FilePathName>IP Socket Manager.axs</FilePathName>
 <Comments></Comments>
 </File>
 </System>
