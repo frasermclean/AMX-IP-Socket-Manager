@@ -25,3 +25,13 @@ DEFINE_FUNCTION fnIPSM_Reinitialize (dev vdvDev)
 {
 	send_command vdvDev, 'Reinit'
 }
+
+DEFINE_FUNCTION fnIPSM_OpenConnection (dev vdvDev)
+{
+	send_command vdvDev, 'OpenConnection'
+}
+
+DEFINE_FUNCTION fnIPSM_CloseConnection (dev vdvDev)
+{
+	send_command vdvDev, 'CloseConnection'
+}
