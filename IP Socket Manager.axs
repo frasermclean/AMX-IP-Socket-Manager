@@ -1,11 +1,8 @@
 MODULE_NAME = 'IP Socket Manager' (dev dvDev, dev vdvComms, char caIPaddr[], integer nPort)
-(***********************************************************)
-(*  FILE_LAST_MODIFIED_ON: 06/03/2013  AT: 14:57:05        *)
-(***********************************************************)
 
 /*
 	IP Socket Manager with integrated queue
-	Programmer: Fraser McLean (fraser@fmav.com.au)
+	Programmer: Fraser McLean
 	
 	Version history
 	v1: Original release.
