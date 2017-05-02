@@ -16,8 +16,7 @@ DEFINE_VARIABLE
 
 DEFINE_MODULE
 
-	//'IP Socket Manager v6' mdlSocket (dvSocket, vdvSocket_tx, caIPaddr, nPort)
-	'IP Socket Manager v7' mdlSocket (dvSocket, vdvSocket_tx, caIPaddr, nPort)
+	'IP Socket Manager' mdlSocket (dvSocket, vdvSocket_tx, caIPaddr, nPort)
 	
 DEFINE_EVENT
 
